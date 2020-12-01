@@ -1,5 +1,5 @@
 # michigan_stats
-for code i wrote on the course "Inferential Statistical Analysis with Python"
+for code i wrote on the Michigan State University program "Inferential Statistical Analysis with Python" within specialization "Statistics with Python"
 
 what i got from weeks 1-2:
   1)Define a confidence interval
